@@ -15,6 +15,7 @@ I'm a results-driven WordPress & SEO expert, entrepreneur, and textile engineer 
 - **SEO Expertise:** Optimizing web content for search engines to enhance online visibility.
 - **Programming Languages:** Proficient in HTML, CSS, JavaScript.
 - **E-commerce:** Co-founder of [SAVIOR LIFESTYLE](https://saviorlifestyle.com), an innovative e-commerce clothing brand.
+- **Databases Management system**
 
 ## 🌐 Connect with Me
 
