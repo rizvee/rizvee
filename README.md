@@ -1,6 +1,7 @@
-# Hi there, I'm Hasan Rizvee! 👋
+# Greetings! 
+I'm **Hasan Rizvee**, a Full-Stack Web Developer, SEO Specialist, Entrepreneur, and Textile Engineer from Dhaka, Bangladesh. 🚀
 
-I'm a results-driven WordPress & SEO expert, entrepreneur, and textile engineer based in Dhaka, Bangladesh. Welcome to my GitHub profile!
+I love building things on the web — from dynamic websites to optimizing content for search engines. Let's connect code and creativity!
 
 ## 🚀 Featured Projects
 
