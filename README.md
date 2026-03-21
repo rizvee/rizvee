@@ -1,64 +1,56 @@
-# Greetings! 
-# **Hasan Rizvee: Digital Brand Architect | Web Dev | SEO**
+# Hasan Rizvee
+### Founder @ Savior Systems | Full-Stack Engineer | Digital Brand Architect | Textile Engineer
 
-Hey there! I'm **Hasan Rizvee**, building and optimizing digital presences from Dhaka, Bangladesh. I combine full-stack web development, SEO, and an entrepreneurial mindset to get things done.
+I build systems that bridge the gap between technical infrastructure and business growth. Based in Dhaka, I spend my time engineering scalable web solutions, optimizing for search, and growing digital-first brands. 
 
----
-
-## ✨ **Projects**
-
-* **[Gentle Attire](https://gentleattire.com/)**
-* **[JNJTC](http://jnjtc.com/)**
-* **[CIBDHK](http://cibdhk.com/)**
-* **[Safe Homes Inspect](https://safehomesinspect.com/)**
-* **[WooAdvancePay](https://github.com/rizvee/WooAdvancePay)**
-* **[LinkWiz-SaaS](https://github.com/rizvee/LinkWiz-SaaS)**
-* **[StockSync-All-in-one-simple-Stock-Management](https://github.com/rizvee/StockSync-All-in-one-simple-Stock-Management)**
-* **[ClimaCast](https://github.com/rizvee/climacast)**
-* **[AppointEase](https://github.com/rizvee/AppointEase)**
-* **[CloudNine](https://github.com/rizvee/CloudNine)**
-* **[Certificate-Verification-for-WP](https://github.com/rizvee/Certificate-Verification-for-WP)**
+Currently, I’m focused on **Savior Systems**, serving as the parent entity for my ventures in fashion, education management, and digital tools.
 
 ---
 
-## 🛠️ **Skill Sheet**
+## 🛠 Active Ventures & Enterprise Systems
 
-I specialize in various areas to bring your digital projects to life. Here's a glimpse of my skills and expertise:
-
-### **Core Expertise & Cross-Disciplinary Skills**
-* **Digital Brand Architecture**: Building comprehensive digital ecosystems from concept to conversion.
-* **Web Strategy & Development**: Crafting robust, high-performance online platforms.
-* **E-commerce & Business Growth**: Driving digital sales and scaling ventures.
-* **Fashion-Tech Innovation**: Bridging the gap between textile engineering and digital solutions.
-
-### **Technical & Development Skills**
-* **Programming Languages**: HTML, CSS, JavaScript, PHP, Python
-* **Web Frameworks & Databases**: Laravel (PHP Framework), MySQL (Database Management)
-* **E-commerce Platforms & CMS**: WordPress (Expert-level implementation, customization, and development), WooCommerce (Custom solutions and infrastructure management), Custom Plugin Development (WordPress/WooCommerce)
-
-### **Digital Marketing & Growth Hacking**
-* **Paid Media & Search Engine Optimization (SEO)**: Google Ads (Campaign creation and optimization), Ads Manager (Facebook/Instagram advertising), Meta Pixel (Tracking and remarketing), Technical SEO & On-Page Optimization, Off-page SEO Strategy
-* **Analytics & Conversion Rate Optimization (CRO)**: Google Analytics (Data analysis and reporting), Google Tag Manager (Tracking and tag deployment), Data Studio (Dashboard creation and visualization), Optimize (A/B testing and personalization), Conversion Rate Optimization (CRO), Campaign Manager 360 (Ad serving and measurement)
-* **Content & Email Marketing**: Content Strategy & Development, Email Marketing Strategy & Execution, Affiliate Marketing (monetization strategies)
-
-### **Fashion-Tech & 3D Design**
-* **3D Apparel Design & Asset Creation**: CLO3D (Virtual garment prototyping and visualization), Cinema 4D (3D modeling, animation, and rendering), 3D Modeling & Asset Creation (for AR/VR and metaverse)
-* **Textile Engineering & Production**: Textile Sciences & Materials (Core academic foundation), Apparel Merchandising (Post-graduate expertise), Virtual Sampling (Reducing waste in fashion production), Fabric Digitization (Converting physical fabrics to digital assets), Digital Production Workflows
-
-### **Business & Entrepreneurial Skills**
-* **Brand Strategy & Management**: Brand Identity Development, Market Positioning
-* **E-commerce Operations & Sourcing**: Global Sourcing & Supply Chain Management, E-commerce Infrastructure Management
-* **Client & Customer Relations**: Client Communication & Project Management, Customer Relationship Management (CRM)
-* **Business Development**: Freelance Project Acquisition, Strategic Partnership Building
+| Project | Description | Role |
+| :--- | :--- | :--- |
+| **[Savior Systems](https://saviorsystems.com)** | Parent agency and technology hub for my digital ecosystem. | Founder |
+| **[VELOR](https://velor.com.bd)** | A modern clothing brand focused on high-quality apparel. | Founder |
+| **[CIB Student Management](http://cibdhk.com/)** | A full-scale ERP/SMS for the Culinary Institute of Bangladesh, featuring automated certificate verification and financial ledgers. | Lead Architect |
+| **Inventory Logic** | Custom inventory management system tailored for e-commerce scaling (Savior Lifestyle/VELOR). | Developer |
 
 ---
 
-## 🌐 **Connect**
+## 🚀 The "Forge" Suite & Open Source
+*I build tools to streamline the creative and development workflow.*
 
-* **GitHub**: [github.com/rizvee](http://github.com/rizvee)
+* **[PromptForge](https://rizvee.github.io/PromptForge/)** – Advanced prompt engineering interface for LLMs.
+* **[PixelForge](https://rizvee.github.io/PixelForge/)** – Web-based image manipulation and processing.
+* **[MuseKit](https://rizvee.github.io/MuseKit/)** – Inspiration and resource toolkit for creators.
+* **[Utilvault](https://rizvee.github.io/Utilvault/)** – A curated collection of essential developer utilities.
+* **[PaletteForge](https://rizvee.github.io/PaletteForge/)** – Intelligent color scheme generation for UI/UX.
+* **[CSS Art Generator](https://rizvee.github.io/css-art-generator/)** – Turning code into visual aesthetics.
+
+---
+
+## 💻 Technical Arsenal
+
+### **Engineering**
+* **Languages:** PHP (Laravel), JavaScript (Vue/React), Python, HTML5, CSS3.
+* **Platforms:** WordPress/WooCommerce (Expert-level architecture & custom plugin dev).
+* **Systems:** MySQL, API Integration, ERP/SMS Development.
+
+### **Growth & Strategy**
+* **SEO:** Technical auditing, on-page optimization, and data-driven backlink strategies.
+* **Performance:** Google Analytics 4, GTM, Conversion Rate Optimization (CRO).
+* **Brand:** Identity design and market positioning for e-commerce.
+
+### **Fashion-Tech**
+* 3D Apparel Design (CLO3D), Cinema 4D, and digital production workflows.
+
+---
+
+## 🌐 Connect & Collaborate
+
+* **GitHub**: [@rizvee](http://github.com/rizvee)
 * **Portfolio**: [rizvee.github.io](https://rizvee.github.io)
-* **LinkedIn**: [linkedin.com/in/hasanrizvee](https://www.linkedin.com/in/hasanrizvee)
+* **LinkedIn**: [in/hasanrizvee](https://www.linkedin.com/in/hasanrizvee)
 
----
-
-Let's build something impactful! 🚀
+*“Building for the web isn't just about code; it's about creating systems that solve real problems.”*
