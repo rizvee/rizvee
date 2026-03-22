@@ -1,26 +1,34 @@
 # Hasan Rizvee
-### Founder @ Savior Systems | Full-Stack Engineer | Digital Brand Architect | Textile Engineer
+### Founder @ Savior Systems | Digital Brand Architect | Full-Stack Engineer
 
-I build systems that bridge the gap between technical infrastructure and business growth. Based in Dhaka, I spend my time engineering scalable web solutions, optimizing for search, and growing digital-first brands. 
-
-Currently, I’m focused on **Savior Systems**, serving as the parent entity for my ventures in fashion, education management, and digital tools.
+I build digital ecosystems that actually work. Based in Dhaka, my work sits at the intersection of textile engineering, brand architecture, and full-stack development. I don’t just write code; I build businesses and the systems that power them.
 
 ---
 
-## 🛠 Active Ventures & Enterprise Systems
+## 💎 The Main Venture: Savior Lifestyle
+**Savior Lifestyle** is my first kid. Founded in 2022, I built this brand from zero, architecting everything from the e-commerce infrastructure (WooCommerce) to the global sourcing and brand strategy. It’s a premium clothing brand focused on men’s essentials (specifically our signature Cuban shirts), and it serves as the real-world testing ground for every growth strategy and technical solution I develop.
 
-| Project | Description | Role |
+---
+
+## 💼 Professional Journey
+
+| Role | Organization | Focus |
 | :--- | :--- | :--- |
-| **[Savior Systems](https://saviorsystems.com)** | Parent agency and technology hub for my digital ecosystem. | Founder |
-| **[VELOR](https://velor.com.bd)** | A modern clothing brand focused on high-quality apparel. | Founder |
-| **[CIB Student Management](http://cibdhk.com/)** | A full-scale ERP/SMS for the Culinary Institute of Bangladesh, featuring automated certificate verification and financial ledgers. | Lead Architect |
-| **Inventory Logic** | Custom inventory management system tailored for e-commerce scaling (Savior Lifestyle/VELOR). | Developer |
+| **Founder** | **Savior Systems** | Parent entity for my digital agencies and fashion ventures. |
+| **Co-Founder** | **Savior Lifestyle** | E-commerce architecture, brand strategy, and product sourcing. |
+| **3D Apparel Designer** | **Binarycloth Ltd.** | Transforming 2D concepts into hyper-realistic 3D garments using CLO3D. |
+| **Web Architect** | **Culinary Institute of Bangladesh** | Developed a custom SMS/ERP with certificate verification and ledgers. |
+| **Digital Strategist** | **Urban Digital (Agency)** | Branding and dev for clients like SkillJobs, Amar Home, and MR Food. |
 
 ---
 
-## 🚀 The "Forge" Suite & Open Source
-*I build tools to streamline the creative and development workflow.*
+## 🛠 Recent Projects & Engineering Tools
+I develop specialized tools to solve specific creative and technical bottlenecks.
 
+### **New Release**
+* **[PIXWEAVE](https://rizvee.github.io/PIXWEAVE/)** – My latest image processing tool designed to create stunning photo collages.
+
+### **The "Forge" & "Vault" Suite**
 * **[PromptForge](https://rizvee.github.io/PromptForge/)** – Advanced prompt engineering interface for LLMs.
 * **[PixelForge](https://rizvee.github.io/PixelForge/)** – Web-based image manipulation and processing.
 * **[MuseKit](https://rizvee.github.io/MuseKit/)** – Inspiration and resource toolkit for creators.
@@ -32,25 +40,25 @@ Currently, I’m focused on **Savior Systems**, serving as the parent entity for
 
 ## 💻 Technical Arsenal
 
-### **Engineering**
-* **Languages:** PHP (Laravel), JavaScript (Vue/React), Python, HTML5, CSS3.
-* **Platforms:** WordPress/WooCommerce (Expert-level architecture & custom plugin dev).
-* **Systems:** MySQL, API Integration, ERP/SMS Development.
+### **Engineering & Systems**
+* **Full-Stack:** PHP (Laravel), JavaScript (React/Vue), Python, HTML5, CSS3.
+* **Platforms:** Expert-level WordPress/WooCommerce architecture, custom plugin development.
+* **Enterprise:** Custom SMS/ERP systems, automated certificate verification portals, and inventory logic.
 
-### **Growth & Strategy**
-* **SEO:** Technical auditing, on-page optimization, and data-driven backlink strategies.
-* **Performance:** Google Analytics 4, GTM, Conversion Rate Optimization (CRO).
-* **Brand:** Identity design and market positioning for e-commerce.
+### **Digital Strategy & Growth**
+* **Performance:** Technical SEO, GA4, GTM, and high-ROI Meta Ad campaigns.
+* **Brand Architecture:** Identity development, market positioning, and conversion rate optimization (CRO).
 
-### **Fashion-Tech**
-* 3D Apparel Design (CLO3D), Cinema 4D, and digital production workflows.
+### **Fashion-Tech (Digital Apparel)**
+* **3D Design:** CLO3D, Cinema 4D, and digital production workflows.
+* **Background:** B.Sc. in Textile Engineering (University of Dhaka) & PGD in Apparel Merchandising (BUFT).
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🌐 Connect
 
+* **Portfolio**: [hasanrizvee.info](https://hasanrizvee.info) | [rizvee.github.io](https://rizvee.github.io)
 * **GitHub**: [@rizvee](http://github.com/rizvee)
-* **Portfolio**: [rizvee.github.io](https://rizvee.github.io)
 * **LinkedIn**: [in/hasanrizvee](https://www.linkedin.com/in/hasanrizvee)
 
-*“Building for the web isn't just about code; it's about creating systems that solve real problems.”*
+*Currently pursuing an MBA at the Institute of Business Administration (IBA), Jahangirnagar University, to further bridge the gap between technical engineering and high-level business strategy.*
