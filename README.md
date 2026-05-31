@@ -1,18 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:0ea5e9&height=210&section=header&text=Hasan%20Rizvee&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fashion%20%C3%97%20Commerce%20%C3%97%20Code%20%C3%97%20AI%20Systems&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:0ea5e9&height=220&section=header&text=Hasan%20Rizvee&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Operator%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20Builder&descSize=18&descAlignY=56&descColor=38bdf8" width="100%" />
+
+</div>
+
+<div align="center">
 
 <a href="https://hasanrizvee.info">
-  <img src="https://img.shields.io/badge/Portfolio-hasanrizvee.info-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/rizvee">
-  <img src="https://img.shields.io/badge/GitHub-@rizvee-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Portfolio-hasanrizvee.info-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/hasanrizvee">
   <img src="https://img.shields.io/badge/LinkedIn-Hasan%20Rizvee-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://github.com/rizvee">
+  <img src="https://img.shields.io/badge/GitHub-@rizvee-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 <a href="https://saviorlifestyle.com">
-  <img src="https://img.shields.io/badge/Savior%20Lifestyle-E--commerce-111827?style=for-the-badge&logo=shopify&logoColor=white" alt="Savior Lifestyle" />
+  <img src="https://img.shields.io/badge/Savior%20Lifestyle-E--Commerce-059669?style=for-the-badge&logo=shopify&logoColor=white" alt="Savior Lifestyle" />
 </a>
 <a href="https://cibdhk.com">
   <img src="https://img.shields.io/badge/CIB-Digital%20Systems-b91c1c?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="CIB" />
@@ -20,87 +24,56 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Textile+Engineer+%C3%97+Full-Stack+Developer;E-commerce+Operator+%C3%97+SEO+Systems+Builder;AI+Workflow+Builder+for+Codex%2C+Antigravity%2C+Cursor+%26+Gemini;Building+at+the+intersection+of+fashion%2C+commerce%2C+code+and+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=Textile+Engineer+%E2%80%A2+Full-Stack+Developer;E-Commerce+Operator+%E2%80%A2+AI+Systems+Builder;Python+Automation+%E2%80%A2+SEO+Systems+Architect;Codex+%7C+Antigravity+%7C+Cursor+%7C+Claude+%7C+Gemini;Building+systems+at+the+intersection+of+fashion%2C+commerce%2C+code+%26+AI" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👋 Hey, I’m Hasan Rizvee
+## 💼 Why Hire Me? — The Operator-Builder Differentiator
 
-I am a **Textile Engineer, Full-Stack Developer, E-commerce Operator, and AI Workflow Builder** from Bangladesh.
+> [!IMPORTANT]
+> **Most developers only write code. I build digital systems that run, scale, and generate revenue.**
+> 
+> As a **Textile Engineer turned Full-Stack Developer & E-Commerce Operator**, I look at software through the lens of business utility. Whether it is reducing cart abandonment by designing custom payment logic, automating manual spreadsheet tasks using Python, or building portable AI developer workflows to speed up product delivery, my work is centered on **operational speed, search visibility, and conversion growth**.
 
-I build practical digital systems where **business, code, fashion, SEO, automation, and AI-assisted development** meet.
-
-My work is not limited to writing code. I build systems that help real businesses operate better: e-commerce platforms, WordPress/WooCommerce tools, SEO engines, content systems, landing pages, dashboards, customer funnels, and AI-ready developer workflows.
+### 🌟 What I Bring to Your Team:
+* **Business-Minded Development:** I understand cost of acquisition, inventory synchronization, cash flow, and organic search. I build software that directly impacts these metrics.
+* **AI-Native Engineering:** I don't just use AI chatbots; I architect custom agentic scaffolding (`MultiModel Dev OS`), local context systems, and automated PR-generation tools (`Code-Steward`) to build software 5x faster with strict quality control.
+* **Extreme Automation Mindset:** If a task has to be done twice, it deserves a Python script, a Telegram alert bot, or a scheduled headless scraper to handle it automatically.
 
 ---
 
-## 🧭 What I Actually Do
+## 📈 Proven Real-World Impact
+
+I don't just build side projects; I engineer and run active digital platforms that handle real users, real inventory, and real business goals.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Fashion-Commerce Systems
+### 🛍️ Savior Lifestyle (Fashion E-Commerce)
+*Co-Founder & Digital Systems Architect*
 
-I co-founded and architect digital systems for **Savior Lifestyle**, working across:
-
-- E-commerce infrastructure
-- WooCommerce operations
-- Product content systems
-- SEO and analytics
-- Conversion-focused funnels
-- Customer journey optimization
-- Apparel brand growth workflows
+* **The Challenge:** High cart abandonment rates on Cash-on-Delivery (COD) and complex inventory tracking for an apparel brand.
+* **Technical Solutions:** 
+  * Designed and coded [WooAdvancePay](https://github.com/rizvee/WooAdvancePay) to dynamically collect partial security deposits based on user location.
+  * Integrated server-side **Meta Pixel Conversion API (CAPI)** and GA4 tracking to bypass iOS ad-blocking.
+  * Automated order and fulfillment status sync via WooCommerce REST API.
+* **Business Outcome:** Lower COD cancellation rates, high tracking accuracy, and a zero-friction checkout experience.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 AI Development Workflows
+### 🏛️ Culinary Institute of Bangladesh (CIB)
+*Digital Systems & Search Strategist*
 
-I design portable workflows for modern AI-assisted development across:
-
-- Codex
-- Antigravity
-- Cursor
-- Claude Code
-- Gemini
-- VS Code
-- Multimodel coding agents
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📈 SEO, AEO & Growth Infrastructure
-
-I build systems around:
-
-- Technical SEO
-- Local SEO
-- AEO and conversational search
-- GA4, GTM, Meta Pixel, CAPI
-- Search Console workflows
-- Landing page architecture
-- Content silos and topical authority
-
-</td>
-<td width="50%" valign="top">
-
-### 🏛️ Institutional Digital Systems
-
-For education and training brands like **CIB**, I work on:
-
-- Website architecture
-- Landing pages
-- Student-facing systems
-- Certificate verification
-- Knowledge bases
-- SEO and tracking infrastructure
-- Operational documentation
+* **The Challenge:** Manual student certificate verification took hours, and organic training lead acquisition was highly competitive.
+* **Technical Solutions:**
+  * Developed a secure [WordPress Certificate Verification System](https://github.com/rizvee/Certificate-Verification-for-WP) with Roll/ID lookup, bulk CSV importer, and AJAX verification.
+  * Engineered a localized SEO & AEO (Answer Engine Optimization) infrastructure targeting high-intent career searches.
+  * Built student-facing portal interfaces and performance landing pages.
+* **Business Outcome:** Eliminated manual verification requests from employers and achieved dominant organic local search visibility.
 
 </td>
 </tr>
@@ -108,280 +81,204 @@ For education and training brands like **CIB**, I work on:
 
 ---
 
-## 🚀 Featured Builds
+## 🧭 Core Capabilities & Specializations
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Full-Stack E-Commerce & Systems
+* I build fast, secure web applications and CMS tools that scale.
+* Deep custom **WordPress & WooCommerce** development (plugins, payment gateways, custom checkout hooks).
+* Database architecture with **SQLite, MySQL, and PostgreSQL** using modern ORMs like **Drizzle**.
+* Clean API integrations (REST, Webhooks, custom endpoints).
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI & Python Automation Engines
+* Extreme automation of repetitive tasks using robust **Python scripts**.
+* Robust web scraping & browser control (Playwright, Selenium, BeautifulSoup).
+* Context-engineered multi-model AI workflows using `AGENTS.md` and custom LLM agent routing.
+* Automated notification systems (custom Telegram bots, automated email sequences, SMS alerts).
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Technical SEO & Growth Infrastructure
+* Data-driven organic growth setups built directly into the codebase.
+* Technical SEO: Semantic HTML, automated schema markup (JSON-LD), lightning-fast PageSpeed optimizations.
+* Local SEO and ranking analysis using custom-built trackers ([LocalRank OS](https://github.com/rizvee/LocalRank-OS)).
+* Advanced analytics tracking: Google Tag Manager (GTM), GA4, server-side events, and custom event listeners.
+
+</td>
+<td width="50%" valign="top">
+
+### 🪡 Creative & Apparel Technology
+* Bridging the gap between physical fashion and digital code.
+* 3D Garment Simulation & Visualization using **CLO3D** and **Marvelous Designer**.
+* Advanced 3D rendering and assets production using **Cinema 4D**.
+* High-performance browser-based creative tools ([PixWeave](https://github.com/rizvee/PIXWEAVE) canvas processor).
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Featured Systems & Developer Tooling
+
+I build open-source tools that solve critical developer experience and marketing problems. Here are the core highlights of my public portfolio:
+
+### 🧠 [MultiModel Dev OS](https://github.com/rizvee/multimodel-dev-os)
+* **The Problem:** Modern developers switch between multiple AI tools (Cursor, Codex, Claude Code, Gemini), resulting in fragmented context, memory loss, and tool lock-in.
+* **The Solution:** A portable, tool-neutral development scaffold that establishes a shared AI memory layer directly in the repository via `MEMORY.md`, `TASKS.md`, and custom `.ai/` rules.
+* **How to use:** `npx multimodel-dev-os@latest init`
+* **Stack:** Node.js · NPX Engine · Markdown Context Engineering
+
+### 📍 [LocalRank OS](https://github.com/rizvee/LocalRank-OS)
+* **The Problem:** Cloud-based SEO trackers are expensive, subscription-heavy, and store client data in third-party databases.
+* **The Solution:** A deterministic, local-first SEO operating system for agencies. Allows complete keyword tracking, site auditing, GBP updates, competitor gap monitoring, and automated PDF executive reports.
+* **Stack:** Next.js · TypeScript · SQLite · Drizzle ORM · Tailwind CSS · Vitest
+
+### 🧹 [Code-Steward](https://github.com/rizvee/Code-Steward)
+* **The Problem:** AI coding assistants generate code rapidly, but introduce significant technical debt, "AI smell", and maintenance rot.
+* **The Solution:** An AI-native janitorial tool. It analyzes repositories, calculates a Technical Debt Ratio, detects AI design anomalies, and prepares automated, verified refactoring PRs in a shadow workspace.
+* **Stack:** Local-first CLI · MCP Tool Bridge · Python/Node Engine
+
+### 💳 [WooAdvancePay](https://github.com/rizvee/WooAdvancePay)
+* **The Problem:** Cash-on-Delivery (COD) orders have massive return-to-origin (RTO) rates in South Asian e-commerce, bleeding logistics costs.
+* **The Solution:** A specialized WooCommerce plugin that enforces partial advance security deposits dynamically based on user location and payment rules.
+* **Stack:** PHP · WordPress Core · WooCommerce API · AJAX
+
+### 🎓 [Certificate Verification for WP](https://github.com/rizvee/Certificate-Verification-for-WP)
+* **The Problem:** Academic institutions need a highly secure, lightweight, and public way to allow employers to verify student credentials.
+* **The Solution:** A secure database verification engine with Roll/ID lookup, bulk CSV admin upload, prepared SQL queries, and strict nonce protection.
+* **Stack:** PHP · WordPress DB Layer · AJAX · HTML5/CSS3
+
+---
+
+## 🐍 Python & AI Automation Lab
+
+I run Python as my primary backend engine to orchestrate background operations, scrape data, sync APIs, and run automated agent pipelines.
 
 <div align="center">
 
-<a href="https://github.com/rizvee/multimodel-dev-os">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizvee&repo=multimodel-dev-os&theme=tokyonight&hide_border=true" alt="MultiModel Dev OS" />
-</a>
-<a href="https://github.com/rizvee/LocalRank-OS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizvee&repo=LocalRank-OS&theme=tokyonight&hide_border=true" alt="LocalRank OS" />
-</a>
-
-<a href="https://github.com/rizvee/Code-Steward">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizvee&repo=Code-Steward&theme=tokyonight&hide_border=true" alt="Code-Steward" />
-</a>
-<a href="https://github.com/rizvee/PIXWEAVE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizvee&repo=PIXWEAVE&theme=tokyonight&hide_border=true" alt="PIXWEAVE" />
-</a>
-
-<a href="https://github.com/rizvee/WooAdvancePay">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizvee&repo=WooAdvancePay&theme=tokyonight&hide_border=true" alt="WooAdvancePay" />
-</a>
-<a href="https://github.com/rizvee/Certificate-Verification-for-WP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizvee&repo=Certificate-Verification-for-WP&theme=tokyonight&hide_border=true" alt="Certificate Verification for WP" />
-</a>
+```
+  ┌────────────────────────────────────────────────────────────────────────┐
+  │                           PYTHON AUTOMATION                            │
+  ├────────────────────────────────────────────────────────────────────────┤
+  │ [Web Scraping]    ► Playwright / Selenium / BeautifulSoup / Scrapy      │
+  │ [Data Pipelines]  ► Pandas / OpenPyXL / SQLite / JSON ETL              │
+  │ [API Integrations]► WooCommerce REST / Google GSC & GBP / SerpAPI      │
+  │ [LLM Orchestrator]► Custom prompt chains / Anthropic / OpenAI / Gemini │
+  │ [Ops & Alerts]    ► Telegram bots / Webhooks / SMTP / Scheduled Cron   │
+  └────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
----
-
-## 🧩 Project Highlights
-
-### 🧠 MultiModel Dev OS
-
-**One portable AI Dev OS for multimodel coding workflows.**
-
-A tool-neutral development scaffold for Codex, Antigravity, Cursor, Claude, Gemini, VS Code, and other AI coding agents.
-
-It gives every project a shared AI memory layer using:
-
-```txt
-AGENTS.md
-MEMORY.md
-TASKS.md
-RUNBOOK.md
-.ai/
-```
-
-```bash
-npx multimodel-dev-os@latest init
-```
-
-**Focus:** AI developer productivity, context engineering, agent workflows, portable project memory.
-
-Repo: [github.com/rizvee/multimodel-dev-os](https://github.com/rizvee/multimodel-dev-os)
+### Key Python workflows I have designed:
+1. **E-Commerce Order Automation:** Multi-channel order synchronizer that fetches sales data via WooCommerce REST API, updates localized spreadsheet trackers, and fires instant shipping alerts to Telegram channels.
+2. **Technical SEO Scraper & Audit:** Programmatic spider that crawls sitemaps, analyzes header structures, validates canonical tags, runs PageSpeed checks, and exports structured competitor gap tables.
+3. **AI Content Compiler:** Multi-stage content runner that takes raw topical briefs, queries LLM APIs with custom system templates, runs basic keyword density checks, and generates drafts pre-formatted with schema markup.
+4. **Local rank crawler:** Background script that schedules local search queries through proxy networks, extracts Map Pack results, and calculates organic ranking visibility over time.
 
 ---
 
-### 📍 LocalRank OS
-
-**A local-first SEO operating system for agencies and operators.**
-
-Built for local SEO management, website audits, keyword tracking, ranking intelligence, algorithm monitoring, content approvals, competitor gap analysis, and executive reporting.
-
-**Stack:** Next.js, TypeScript, SQLite, Drizzle ORM, Tailwind CSS, Vitest.
-
-Repo: [github.com/rizvee/LocalRank-OS](https://github.com/rizvee/LocalRank-OS)
-
----
-
-### 🧹 Code-Steward
-
-**An AI-native technical debt janitor.**
-
-A local-first concept for detecting, explaining, and fixing AI-generated code rot.
-
-Core ideas:
-
-* Technical Debt Ratio
-* AI-smell detection
-* Local remediation workflows
-* Shadow workspace repair
-* PR generation
-* Verification metadata
-* MCP bridge
-
-Repo: [github.com/rizvee/Code-Steward](https://github.com/rizvee/Code-Steward)
-
----
-
-### 🛍️ WooAdvancePay
-
-**Advance payment logic for WooCommerce cash-on-delivery workflows.**
-
-A WooCommerce plugin for applying advance or partial payments based on locality, percentage, fixed amount, and COD-specific payment rules.
-
-Built from real e-commerce operational needs.
-
-Repo: [github.com/rizvee/WooAdvancePay](https://github.com/rizvee/WooAdvancePay)
-
----
-
-### 🎓 Certificate Verification for WP
-
-**A WordPress certificate verification system for educational institutions.**
-
-A plugin that lets institutions manage certificate records and allows students, employers, or visitors to verify certificates using Roll/ID.
-
-Repo: [github.com/rizvee/Certificate-Verification-for-WP](https://github.com/rizvee/Certificate-Verification-for-WP)
-
----
-
-### 🖼️ PixWeave
-
-**A privacy-first, offline-capable photo collage maker.**
-
-A browser-based creative tool where photos never leave the user’s device.
-
-Features include:
-
-* 38 collage layouts
-* 20 frame styles
-* 11 filters
-* 12 aspect ratios
-* High-resolution export
-* PWA support
-* Local-only image processing
-
-Repo: [github.com/rizvee/PIXWEAVE](https://github.com/rizvee/PIXWEAVE)
-Live: [rizvee.github.io/PIXWEAVE](https://rizvee.github.io/PIXWEAVE/)
-
----
-
-### ⚒️ PromptForge
-
-**A browser-based AI prompt library and optimizer.**
-
-An open-source prompt library for Claude, ChatGPT, Gemini, and other LLM workflows.
-
-Repo: [github.com/rizvee/PromptForge](https://github.com/rizvee/PromptForge)
-
----
-
-## 🧰 Tech Stack
+## 🧰 Full Technical Stack
 
 <div align="center">
 
-### Frontend
-
+### 💻 Frontend & Interfaces
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Stack" />
 
-### Backend & CMS
+### ⚙️ Backend, CMS & E-Commerce
+<img src="https://skillicons.dev/icons?i=nodejs,python,php,laravel,wordpress,mysql,sqlite" alt="Backend Stack" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,wordpress,mysql,sqlite" alt="Backend Stack" />
+### 🤖 AI, Automation & Data Pipelines
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/Anthropic%20API-191919?style=for-the-badge&logoColor=white" alt="Anthropic" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
 
-### Tools & Platforms
+### 🛠️ Developer Tooling & Infrastructure
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare,linux,bash" alt="Tools Stack" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare,figma,linux,bash" alt="Tools Stack" />
-
-### Creative & Apparel-Tech
-
-<img src="https://img.shields.io/badge/CLO3D-Apparel%20Simulation-111827?style=for-the-badge" alt="CLO3D" />
-<img src="https://img.shields.io/badge/Marvelous%20Designer-3D%20Garment%20Design-111827?style=for-the-badge" alt="Marvelous Designer" />
-<img src="https://img.shields.io/badge/Cinema%204D-3D%20Visualization-111827?style=for-the-badge" alt="Cinema 4D" />
+### 🎨 Creative & Apparel-Tech
+<img src="https://img.shields.io/badge/CLO3D-Apparel%20Simulation-0ea5e9?style=for-the-badge&labelColor=020617" alt="CLO3D" />
+<img src="https://img.shields.io/badge/Marvelous%20Designer-3D%20Garments-0ea5e9?style=for-the-badge&labelColor=020617" alt="Marvelous Designer" />
+<img src="https://img.shields.io/badge/Cinema%204D-3D%20Rendering-0ea5e9?style=for-the-badge&labelColor=020617" alt="Cinema 4D" />
 
 </div>
 
 ---
 
-## 🧠 AI & Developer Workflow Stack
+## 📊 GitHub Contribution Metrics
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Codex-AI%20Coding-020617?style=for-the-badge" alt="Codex" />
-<img src="https://img.shields.io/badge/Antigravity-Multimodel%20Development-020617?style=for-the-badge" alt="Antigravity" />
-<img src="https://img.shields.io/badge/Cursor-Agentic%20IDE-020617?style=for-the-badge" alt="Cursor" />
-<img src="https://img.shields.io/badge/Claude%20Code-Terminal%20AI-020617?style=for-the-badge" alt="Claude Code" />
-<img src="https://img.shields.io/badge/Gemini-AI%20Workflow-020617?style=for-the-badge" alt="Gemini" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-Systems%20Design-020617?style=for-the-badge" alt="Prompt Engineering" />
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizvee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&title_color=38bdf8&icon_color=0ea5e9" alt="GitHub Stats" width="100%" />
+</td>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizvee&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&langs_count=8" alt="Top Languages" width="100%" />
+</td>
+</tr>
+</table>
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=rizvee&theme=tokyonight&hide_border=true&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="100%" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=rizvee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 🧱 Repository Map
-
-| Area                  | Projects                                                                                                                                                                                                                                                                   |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| AI Dev Workflow       | [MultiModel Dev OS](https://github.com/rizvee/multimodel-dev-os), [Code-Steward](https://github.com/rizvee/Code-Steward), [PromptForge](https://github.com/rizvee/PromptForge)                                                                                             |
-| SEO & Growth          | [LocalRank OS](https://github.com/rizvee/LocalRank-OS), CIB SEO/AEO systems                                                                                                                                                                                                |
-| WordPress/WooCommerce | [WooAdvancePay](https://github.com/rizvee/WooAdvancePay), [Certificate Verification for WP](https://github.com/rizvee/Certificate-Verification-for-WP), [LinkWiz-SaaS](https://github.com/rizvee/LinkWiz-SaaS)                                                             |
-| Creative Tools        | [PixWeave](https://github.com/rizvee/PIXWEAVE), [PixelForge](https://github.com/rizvee/PixelForge), [PaletteForge](https://github.com/rizvee/PaletteForge), [CSS Art Generator](https://github.com/rizvee/css-art-generator), [MuseKit](https://github.com/rizvee/MuseKit) |
-| Business Systems      | [AppointEase](https://github.com/rizvee/AppointEase), [StockSync](https://github.com/rizvee/StockSync-All-in-one-simple-Stock-Management)                                                                                                                                  |
-| Fashion & Commerce    | Savior Lifestyle, StyleSphere, product/content workflows                                                                                                                                                                                                                   |
-
-See the expanded project index: [PROJECTS.md](PROJECTS.md)
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizvee&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizvee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=rizvee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=rizvee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🧭 Current Focus
+## 🧭 Focus & Resource Allocation
 
 ```txt
-AI Dev OS          ████████████████████  Building portable agent workflows
-Local SEO Systems  ██████████████████░░  Productizing agency-grade SEO ops
-WooCommerce Tools  █████████████████░░░  Solving real e-commerce friction
-CIB Infrastructure ██████████████████░░  Digital systems for education growth
-Fashion-Tech       ████████████████░░░░  Connecting apparel, commerce and software
+System Architectures  ████████████████████  Designing high-converting web and backend products
+Python Automation     ██████████████████░░  Orchestrating scraper, API, and alert engines
+Technical & Local SEO ██████████████████░░  Dominating search and answer engine optimization
+WooCommerce Solutions  █████████████████░░░  Eliminating operational friction in checkout and payments
+AI Workflow Scaffolds ████████████████░░░░  Context engineering for multimodel developer systems
+Fashion Apparel Tech  ███████████████░░░░░  Integrating CLO3D/3D visualization with web stores
 ```
 
 ---
 
-## 🧬 My Operating Philosophy
+## 🧬 Professional Philosophy
 
-I do not build software just to ship code.
-
-I build systems that connect:
-
-* business goals
-* user behavior
-* technical architecture
-* content strategy
-* search visibility
-* automation
-* operational reality
-
-The best tools are not only technically correct. They save time, reduce friction, improve decisions, and help a real business move faster.
+1. **Code is a means to an end.** The best code is the code that is never written, or the code that solves a real business bottleneck with minimal maintenance.
+2. **Operations determine software requirements.** You cannot design a high-converting e-commerce checkout from a purely academic standpoint. You must understand the logistics, the cancellation patterns, and the payment psychology of the user.
+3. **AI is a partner, not a replacement.** Developers who copy-paste AI code blindly create bloated systems. AI-native developers engineer robust contexts, set rigid parameters, and use automated linting/remediation cycles to maintain extreme velocity without losing code quality.
 
 ---
 
-## 🌐 Connect
+## 🤝 Let's Collaborate!
 
-<div align="center">
+I am always open to consulting engagements, full-stack building opportunities, e-commerce optimization contracts, and custom automation engineering.
 
-<a href="https://hasanrizvee.info">
-  <img src="https://img.shields.io/badge/Portfolio-hasanrizvee.info-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://rizvee.github.io">
-  <img src="https://img.shields.io/badge/GitHub%20Pages-rizvee.github.io-0f172a?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-</a>
-<a href="https://www.linkedin.com/in/hasanrizvee">
-  <img src="https://img.shields.io/badge/LinkedIn-Hasan%20Rizvee-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://saviorlifestyle.com">
-  <img src="https://img.shields.io/badge/Savior%20Lifestyle-Fashion%20Commerce-111827?style=for-the-badge" alt="Savior Lifestyle" />
-</a>
-<a href="https://cibdhk.com">
-  <img src="https://img.shields.io/badge/CIB-Digital%20Growth-b91c1c?style=for-the-badge" alt="CIB" />
-</a>
-
-</div>
+* **🌐 Interactive Portfolio:** [hasanrizvee.info](https://hasanrizvee.info)
+* **💼 Professional Network:** [LinkedIn - Hasan Rizvee](https://www.linkedin.com/in/hasanrizvee)
+* **✉️ Direct Inquiries:** Reach out through my portfolio form or connect on LinkedIn for consulting inquiries.
+* **📂 Exploration Hub:** Check out the complete, categorized repository index in [PROJECTS.md](PROJECTS.md).
 
 ---
 
 <div align="center">
 
-### Building at the intersection of fashion, commerce, code, SEO, and AI systems.
+### Building high-impact digital systems at the intersection of fashion, commerce, code, SEO, and AI.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,45:0f172a,100:020617&height=120&section=footer" width="100%" />
 

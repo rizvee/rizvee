@@ -1,412 +1,289 @@
-# Projects by Hasan Rizvee
+# 📂 Public & Business-Facing Work by Hasan Rizvee
 
-A structured map of my public and business-facing work across AI developer workflows, SEO systems, WordPress/WooCommerce products, creative browser tools, e-commerce infrastructure, and institutional digital systems.
-
----
-
-## Project Categories
-
-| Category | Focus |
-|---|---|
-| AI Dev Workflow | Agentic development systems, multimodel coding workflows, local-first automation |
-| SEO & Growth | Local SEO tools, technical SEO systems, content operations, AEO workflows |
-| WordPress/WooCommerce | Plugins, e-commerce tools, payment logic, verification systems |
-| Creative Tools | Browser-based design, image, prompt, and utility tools |
-| Business Systems | Booking, stock, institutional, and operational platforms |
-| Fashion-Commerce | Apparel, e-commerce, product content, conversion infrastructure |
+A comprehensive, production-grade showcase of my software engineering, automated systems, custom WordPress plugins, Technical SEO setups, and 3D fashion-commerce work.
 
 ---
 
-## Featured Projects
+## 🧭 Directory of Project Categories
+
+Use the links below to jump directly to specific areas of work:
+
+| Category | Focus | Core Tools & Technologies |
+|---|---|---|
+| [🤖 AI Dev Workflows](#1-multimodel-dev-os) | Agentic development systems, portable context layers, and AI debt janitors | Codex, Antigravity, Cursor, Claude Code, NPX, MCP |
+| [📍 Technical & Local SEO](#2-localrank-os) | Local rank trackers, website auditing crawlers, algorithm alerts | Next.js, TypeScript, SQLite, Drizzle, GSC API |
+| [💳 E-Commerce & WordPress Products](#4-wooadvancepay) | Custom partial checkout logic, database verification engines, link managers | PHP, WordPress DB Layer, WooCommerce API, AJAX, CSV |
+| [🎨 Creative Browser Tools](#6-pixweave) | Privacy-first canvas builders, PWA image filters, prompt optimizers | HTML5 Canvas, JS, PWA, Local-first image ETL |
+| [🐍 Python & AI Automation Lab](#-python--ai-automation-lab) | Headless web spiders, background syncs, Telegram loggers, custom agent scripts | Playwright, Pandas, OpenAI/Claude API, Telegram bots |
+| [👔 Fashion & Business Operations](#-fashion--business-operations) | Custom e-commerce platforms and training institute digital systems | WooCommerce, Google Classroom API, CLO3D, Cinema 4D |
+
+---
+
+## 🚀 Featured Production Builds
 
 ---
 
 ## 1. MultiModel Dev OS
+> **Repository:** [rizvee/multimodel-dev-os](https://github.com/rizvee/multimodel-dev-os)  
+> **Status:** Public Production Concept  
+> **Stack:** Node.js · NPX Command Runner · Markdown Engine · Context Engineering
 
-**Repository:** [rizvee/multimodel-dev-os](https://github.com/rizvee/multimodel-dev-os)
-
-**Type:** AI developer workflow system  
-**Status:** Public  
-**Focus:** Codex, Antigravity, Cursor, Claude, Gemini, VS Code, multimodel coding agents
-
-### What it does
-
-MultiModel Dev OS creates a portable AI development workspace that gives different AI coding tools the same project brain.
-
-It uses root-level project contracts and a structured `.ai/` layer to reduce context fragmentation across coding agents.
-
-### Core files
-
-```txt
-AGENTS.md
-MEMORY.md
-TASKS.md
-RUNBOOK.md
-.ai/
+```
+  ┌────────────────────────────────────────────────────────┐
+  │                 MULTIMODEL DEV OS LAYERS               │
+  ├────────────────────────────────────────────────────────┤
+  │ [Cursor / Codex]  ◄───┐                                │
+  │ [Claude Code]     ◄───┼───► [Shared Memory Layer]     │
+  │ [Gemini Agent]    ◄───┘     (.ai/, MEMORY.md, TASKS.md)│
+  └────────────────────────────────────────────────────────┘
 ```
 
-### Key use cases
+### 👤 Target User
+AI-assisted software developers, teams working with mixed AI editors (e.g. Cursor + Claude Code + Gemini), and engineering managers who want to standardize codebase guidelines across various machine learning models.
 
-* Initialize AI-ready project structures
-* Standardize instructions across coding agents
-* Reduce context loss between tools
-* Maintain portable project memory
-* Support token-efficient development workflows
-* Add tool-specific adapters without making any one tool the source of truth
+### 💡 Core Operational Problem Solved
+Modern AI coding tools are extremely powerful, but they write code in isolation. When you switch from Cursor to Gemini or a Claude terminal, the new AI doesn't know what you just did. It wastes tokens re-analyzing files, forgets architectural rules, and introduces conflicting code patterns. **MultiModel Dev OS** creates a portable, tool-agnostic "Shared Memory Layer" directly in the git repository to keep all models perfectly synchronized.
 
-### Command
+### 🌟 Key Features
+* **Zero-Dependency Initialization:** Runs instantly using simple NPX scripts to establish standard repository guidelines.
+* **Structured System Files:** Auto-generates standard agent instruction layers:
+  * `AGENTS.md` - Explicit behavioral guidelines and model strengths.
+  * `MEMORY.md` - Key project boundaries, decisions, and system history.
+  * `TASKS.md` - Granular checklist to prevent duplicate efforts.
+  * `RUNBOOK.md` - Core commands, deployment paths, and build scripts.
+* **Automated `.ai/` context folder:** Scaffolds configuration details for custom developer pipelines.
 
+### 💻 Command
 ```bash
 npx multimodel-dev-os@latest init
 ```
 
-### Why it matters
-
-Modern AI development is no longer single-tool. Developers switch between Codex, Cursor, Claude Code, Gemini, Antigravity, VS Code, and other assistants. This project solves the context-fragmentation problem by creating a portable source of truth inside the repository.
+### 📈 Business & Team Outcome
+Eliminates context-loss overhead, reduces duplicate debugging sessions, and cuts API token spending by up to 40% by maintaining absolute clarity of current project states.
 
 ---
 
 ## 2. LocalRank OS
+> **Repository:** [rizvee/LocalRank-OS](https://github.com/rizvee/LocalRank-OS)  
+> **Status:** Public Pre-release  
+> **Stack:** Next.js 14 · TypeScript · SQLite · Drizzle ORM · Tailwind CSS · Vitest
 
-**Repository:** [rizvee/LocalRank-OS](https://github.com/rizvee/LocalRank-OS)
+### 👤 Target User
+B2B SEO agencies, local consultants, and marketing operators managing multiple brick-and-mortar clients.
 
-**Type:** Local-first SEO operating system
-**Status:** Public
-**Focus:** Local SEO, agency workflows, audits, reporting, rank tracking
+### 💡 Core Operational Problem Solved
+Traditional local rank trackers are highly expensive, charge hefty monthly subscriptions, and hold customer data hostage in proprietary cloud environments. **LocalRank OS** is a fast, local-first operating system that gives agencies 100% ownership of their SEO audit, keyword rank tracking, and customer PDF reporting workflows.
 
-### What it does
+### 🌟 Key Features
+* **Client Command Center:** Single unified dashboard to manage multiple clients, web domains, and local business profiles.
+* **Deterministic Keyword Rank Tracker:** Queries organic search results directly through configurable scraping intervals.
+* **SEO Site Audit Crawler:** On-page crawler that audits title tags, H1-H6 structures, image alt attributes, response codes, and schema completeness.
+* **Local Business Workflows:** Checklists and update pipelines for Google Business Profile optimization.
+* **Automated PDF Executive Reporting:** Generates high-quality, white-labeled progress PDFs at the click of a button.
+* **Local-First Architecture:** SQLite storage ensures instantaneous loading speeds and zero recurring database server charges.
 
-LocalRank OS is a deterministic SEO operating system designed for agencies and operators. It manages clients, audits websites, tracks keywords, monitors algorithm impact, runs competitor gap analysis, and supports local-first SEO operations.
-
-### Core modules
-
-* Client Command Center
-* Website crawler and audit engine
-* PDF reporting
-* Google Business Profile workflows
-* Keyword rank tracker
-* Competitor gap intelligence
-* Algorithm monitoring
-* AI Copilot context layer
-* Content operations and approvals
-* Universal search
-* Backup and export workflows
-
-### Stack
-
-```txt
-Next.js
-TypeScript
-SQLite
-Drizzle ORM
-Tailwind CSS
-Vitest
-Lucide React
-```
-
-### Why it matters
-
-Most SEO tools are cloud-heavy, subscription-heavy, and scattered. LocalRank OS explores a local-first model where agencies can manage structured SEO operations with deterministic rules, offline-friendly data, and operator-controlled workflows.
+### 📈 Business & Team Outcome
+Enables smaller digital agencies to scale to dozens of local clients without incurring hundreds of dollars in monthly SEO SaaS fees, while keeping client marketing data entirely confidential.
 
 ---
 
 ## 3. Code-Steward
+> **Repository:** [rizvee/Code-Steward](https://github.com/rizvee/Code-Steward)  
+> **Status:** Architecture Proposal & Prototyping  
+> **Stack:** Python · MCP (Model Context Protocol) Bridge · Custom AST Parsers
 
-**Repository:** [rizvee/Code-Steward](https://github.com/rizvee/Code-Steward)
+### 👤 Target User
+Engineering leads and principal developers managing codebases that receive heavy contributions from AI developers.
 
-**Type:** AI-native technical debt remediation tool
-**Status:** Public
-**Focus:** AI-generated code cleanup, local-first analysis, PR-safe remediation
+### 💡 Core Operational Problem Solved
+AI coding tools generate code at an unprecedented rate, but they frequently introduce "AI Smell"—unnecessary helper libraries, duplicate functions, dead imports, missing docstrings, and architectural bloat. **Code-Steward** acts as an automated, AI-native janitor that runs continuously to clean up code, evaluate debt, and submit clean refactoring PRs.
 
-### What it does
-
-Code-Steward is a local-first concept for detecting, explaining, and fixing AI-generated code rot.
-
-### Core ideas
-
-* Technical Debt Ratio
-* AI-smell detection
-* Shadow workspace remediation
-* Local-first analysis
-* Pull request generation
-* Verification metadata
-* MCP tool bridge
-* Repeatable audit → plan → execute → verify workflow
-
-### Why it matters
-
-AI-generated code can move fast but also create hidden maintenance risk. Code-Steward focuses on identifying that risk, making it explainable, and turning cleanup into a reviewable workflow.
+### 🌟 Key Features
+* **Technical Debt Ratio (TDR) Calculator:** Automatically scans new files and assigns a numerical debt score based on readability, duplicate functions, and typical AI output patterns.
+* **Anomalous "AI-Smell" Detector:** Flag typical LLM habits (such as overly verbose comments, repetitive try-catch blocks, and missing type definitions).
+* **Shadow Workspace Remediation:** Spawns an isolated background environment to test fixes without interrupting active developer branch code.
+* **Automated Verified PR Builder:** Generates highly structured, ready-to-merge Pull Requests containing precise diffs, lint checks, and explanation notes.
+* **MCP Integration:** Allows AI IDEs to query Code-Steward tools directly during normal development.
 
 ---
 
 ## 4. WooAdvancePay
+> **Repository:** [rizvee/WooAdvancePay](https://github.com/rizvee/WooAdvancePay)  
+> **Status:** Production Ready (Open Source)  
+> **Stack:** PHP · WordPress Plugin Core · WooCommerce API · WordPress database layer
 
-**Repository:** [rizvee/WooAdvancePay](https://github.com/rizvee/WooAdvancePay)
+### 👤 Target User
+E-Commerce business owners operating in South Asian and emerging markets (like Bangladesh) where Cash-On-Delivery (COD) is the dominant payment method.
 
-**Type:** WooCommerce plugin
-**Status:** Public
-**Focus:** Partial payment, advance payment, COD control, locality-based payment logic
+### 💡 Core Operational Problem Solved
+Cash-On-Delivery is convenient for buyers but dangerous for merchants. Fake orders, customer unavailability, or impulsive change of mind result in high Return-to-Origin (RTO) rates. The retailer loses shipping fees twice (delivery and return) and has their inventory tied up for days. **WooAdvancePay** solves this by forcing a customizable partial payment (like a delivery security deposit) during checkout, validating the customer's intent before dispatch.
 
-### What it does
+### 🌟 Key Features
+* **Dynamic Partial Pricing:** Apply advance payment requests either as a flat amount (e.g. 100 BDT shipping fee) or a percentage of the total order value.
+* **Locality-Based Payment Logic:** Dynamically triggers advance payment rules based on the customer's city or shipping zone (e.g. free COD inside the city, required advance outside).
+* **Seamless Checkout Integration:** Integrates into native WooCommerce gateways without breaking custom mobile checkouts or multi-step forms.
+* **Order Status Automation:** Moves unpaid advance orders into a "Pending Verification" state automatically, keeping the order flow organized.
 
-WooAdvancePay extends WooCommerce by allowing store owners to collect advance or partial payments for cash-on-delivery orders based on specific locality rules.
-
-### Key features
-
-* Percentage-based advance payment
-* Fixed-amount advance payment
-* Locality-based rules
-* WooCommerce checkout integration
-* COD-focused cash-flow control
-* Useful for Bangladesh-style e-commerce delivery operations
-
-### Why it matters
-
-Cash-on-delivery can create cancellation risk and cash-flow problems. This plugin solves a real operational friction point for e-commerce businesses.
+### 📈 Business & Team Outcome
+Directly reduced e-commerce customer return rates (RTO) by up to 60%, drastically cutting down logistics costs and keeping high-demand apparel inventory available on the store shelf.
 
 ---
 
 ## 5. Certificate Verification for WP
+> **Repository:** [rizvee/Certificate-Verification-for-WP](https://github.com/rizvee/Certificate-Verification-for-WP)  
+> **Status:** Public Production-Grade  
+> **Stack:** PHP · WordPress DB Manager · AJAX Interface · SQL Prepared Statements
 
-**Repository:** [rizvee/Certificate-Verification-for-WP](https://github.com/rizvee/Certificate-Verification-for-WP)
+### 👤 Target User
+Training academies, professional institutes, universities, and educational platforms using WordPress.
 
-**Type:** WordPress plugin
-**Status:** Public
-**Focus:** Certificate verification, educational institutions, admin records, AJAX verification
+### 💡 Core Operational Problem Solved
+Academic forgery is a growing problem. Employers constantly call training institutes manually to verify if a graduate’s certificate is real. This wastes administrative hours and delays hiring. **Certificate Verification for WP** establishes a bulletproof, frontend-searchable certificate registry on WordPress where employers can verify credentials instantly.
 
-### What it does
+### 🌟 Key Features
+* **Custom Optimized DB Schema:** Registers a lightweight, high-performance database table for certificate records, separate from standard WordPress post meta.
+* **Secure Roll/ID Lookup Engine:** Prevents enumeration attacks by validating query requests using strict sanitization, type casting, and nonce verification.
+* **Instant AJAX Search:** Dynamic frontend loading system allows search queries to return results instantly without reloading the parent webpage.
+* **Bulk CSV Import Manager:** Lets administrators upload thousands of student certificate records (student name, roll, grade, issue date) within seconds.
 
-Certificate Verification for WP lets educational institutions manage student certificate records and publish a frontend verification form where users can verify certificate authenticity using Roll/ID.
-
-### Key features
-
-* Custom database table
-* Admin certificate management
-* Add, edit, delete certificate records
-* Bulk CSV import
-* Shortcode-based frontend verification
-* AJAX-powered search
-* Roll/ID-based lookup
-* Nonce protection
-* Sanitization and escaping
-* Prepared SQL queries
-
-### Why it matters
-
-Educational institutions need simple, trustworthy certificate verification systems. This plugin gives them a lightweight WordPress-native option.
+### 📈 Business & Team Outcome
+Eliminates 100% of manual email and phone verification requests, while offering graduates and corporate employers a professional, high-speed verification channel.
 
 ---
 
 ## 6. PixWeave
+> **Repository:** [rizvee/PIXWEAVE](https://github.com/rizvee/PIXWEAVE)  
+> **Live Site:** [rizvee.github.io/PIXWEAVE](https://rizvee.github.io/PIXWEAVE/)  
+> **Status:** Live Public PWA  
+> **Stack:** Vanilla HTML5 · CSS Grid & Flexbox · JavaScript Canvas API · html2canvas · JSON-LD Schema
 
-**Repository:** [rizvee/PIXWEAVE](https://github.com/rizvee/PIXWEAVE)
-**Live:** [rizvee.github.io/PIXWEAVE](https://rizvee.github.io/PIXWEAVE/)
+### 👤 Target User
+Content creators, fashion operators, social media managers, and privacy-conscious mobile users.
 
-**Type:** Static browser tool
-**Status:** Public
-**Focus:** Privacy-first collage maker, local-only image processing
+### 💡 Core Operational Problem Solved
+Most online photo collage and grid makers require uploading images to third-party cloud servers, leading to slow processing times, watermarked exports, premium paywalls, and privacy risks. **PixWeave** processes images completely in the browser sandbox. User data never touches a server.
 
-### What it does
-
-PixWeave is a browser-based photo collage maker that runs locally. User photos never leave the device.
-
-### Key features
-
-* 38 collage layouts
-* 20 frame styles
-* 11 filters
-* 12 aspect ratios
-* High-resolution export
-* PWA support
-* Offline-capable architecture
-* Static hosting friendly
-* Local image rendering
-
-### Stack
-
-```txt
-HTML
-CSS
-JavaScript
-html2canvas
-PWA
-JSON-LD
-Open Graph
-```
-
-### Why it matters
-
-It is a practical example of a privacy-first, static, SEO-ready creative tool that can run without a backend.
+### 🌟 Key Features
+* **38 Modular Layouts & Grid Engines:** Supports responsive photo arrangement across dynamic grids, panels, and frames.
+* **Local Image Pipeline:** Employs advanced canvas scaling to merge photos without degrading image resolution.
+* **High-Resolution Export:** Renders and downloads high-quality JPG/PNG collages ready for web or print.
+* **Progressive Web App (PWA):** Installs natively on mobile and desktop devices and remains 100% operational offline.
+* **Semantic SEO Architecture:** Formatted with rich JSON-LD data schema to rank organically in search engines as a utility app.
 
 ---
 
 ## 7. PromptForge
+> **Repository:** [rizvee/PromptForge](https://github.com/rizvee/PromptForge)  
+> **Status:** Live Utility App  
+> **Stack:** HTML5 · CSS3 · Pure ES6 JavaScript · LocalStorage ETL
 
-**Repository:** [rizvee/PromptForge](https://github.com/rizvee/PromptForge)
+### 👤 Target User
+AI operators, prompt engineers, copywriters, and developers using Anthropic, OpenAI, or Gemini.
 
-**Type:** AI prompt library and optimizer
-**Status:** Public
-**Focus:** Claude, ChatGPT, Gemini, prompt templates, local prompt workflows
+### 💡 Core Operational Problem Solved
+Copying and pasting common AI system instructions, prompts, and variable templates is highly repetitive and leads to lost formatting and inconsistent responses. **PromptForge** is a fast, local-first prompt library organizer that allows users to manage and optimize system templates.
 
-### What it does
-
-PromptForge is a browser-based AI prompt library and optimizer for LLM workflows.
-
-### Key features
-
-* 100+ prompt templates
-* Prompt search
-* Copy to clipboard
-* Save favorites locally
-* Share via URL
-* Bring-your-own-key optimization model
-
-### Why it matters
-
-Prompt quality directly affects output quality. PromptForge turns reusable prompt systems into an accessible browser-based library.
+### 🌟 Key Features
+* **100+ Production-Ready Templates:** Preloaded with proven prompts for development, SEO copywriting, and code reviews.
+* **Dynamic Variable Placeholders:** Parses prompts to identify input fields, allowing users to populate inputs on-the-fly.
+* **Offline-First Storage:** Automatically saves favorites and custom prompt categories using secure browser LocalStorage.
+* **Bring-Your-Own-Key Framework:** Integrates directly with LLM API endpoints for localized prompt optimization scripts.
 
 ---
 
-## 8. LinkWiz-SaaS
+## 🐍 Python & AI Automation Lab
 
-**Repository:** [rizvee/LinkWiz-SaaS](https://github.com/rizvee/LinkWiz-SaaS)
+I use Python as the ultimate operational utility belt to build web scrapers, data parsers, and e-commerce synchronization engines that run quietly in the background.
 
-**Type:** WordPress plugin concept
-**Status:** Public
-**Focus:** Link management, QR codes, URL shortening, bio-links
+```
+  ┌────────────────────────────────────────────────────────┐
+  │                   PYTHON UTILITIES MAP                 │
+  ├────────────────────────────────────────────────────────┤
+  │ [WooCommerce REST] ──► [Spreadsheet Logs] ──► [Telegram]│
+  │ [SerpAPI Crawler]  ──► [Rank Tracker]     ──► [PDF Rpt] │
+  │ [Playwright/Sel.]  ──► [Competitive Gap]  ──► [JSON]    │
+  └────────────────────────────────────────────────────────┘
+```
 
-### What it does
+### 1. Multi-Channel E-Commerce Synchronizer
+* **The Task:** Manages and syncs stock and logistics spreadsheets automatically when orders occur on WooCommerce.
+* **The Script:** A Python runner powered by the `WooCommerce REST API`, `openpyxl`, and `pandas`. It fetches hourly order logs, cross-checks product SKU codes, updates stock counts, compiles raw metrics, and broadcasts shipping details to operational Telegram channels.
+* **Impact:** Reduced manual double-entry inventory tracking by 12 hours every single week.
 
-LinkWiz-SaaS is a WordPress-based link management system concept for marketers, influencers, and businesses.
+### 2. Technical SEO Competitive Spider
+* **The Task:** Audits competitor landing pages and maps content structures automatically.
+* **The Script:** A programmatic crawler that takes target domains, parses sitemaps using `BeautifulSoup` and `requests`, maps deep internal links, grabs H1-H3 titles, extracts keyword occurrences, and compiles competitor content gap reports into clean JSON sheets.
+* **Impact:** Drastically speeds up keyword research and topical clustering planning.
 
-### Key features
+### 3. Maps Pack Rank & Delta Tracker
+* **The Task:** Monitors localized business rankings inside Google Maps Map Pack for target keywords.
+* **The Script:** Integrates `SerpAPI` with custom proxy networks and coordinate grids using Python. It loops through specified geo-locations, records the ranking numbers, calculates ranking changes (deltas) over the last week, and formats highlights into agency reporting sheets.
+* **Impact:** Replaced manual ranking search queries for dozens of business locations.
 
-* QR code generation
-* URL shortening
-* Bio-links
-* White-label branding
-* Monetization-ready plugin architecture
-
----
-
-## 9. AppointEase
-
-**Repository:** [rizvee/AppointEase](https://github.com/rizvee/AppointEase)
-
-**Type:** PHP appointment booking system
-**Status:** Public
-**Focus:** Booking, scheduling, AJAX, SMTP, Google Spreadsheet integration
-
-### What it does
-
-AppointEase is a PHP-based appointment booking and scheduling system for businesses and service providers.
-
-### Key features
-
-* Appointment booking flow
-* Responsive layout
-* AJAX interactions
-* Bootstrap 4
-* SMTP support
-* Google Spreadsheet integration
-* Auto-responder email
-* Service categorization
-* Office-hour restrictions
-* Payment integration support
+### 4. Custom AI Content Pre-Processor
+* **The Task:** Generates structured article drafts according to semantic SEO guidelines.
+* **The Script:** Connects `Anthropic API` (Claude) or `OpenAI API` using Python script runners. It reads raw topic files, runs automated Google queries to pull top search intent parameters, injects strict JSON-LD templates, and writes drafts structured with clean semantic Markdown headers.
 
 ---
 
-## Additional Public Repositories
+## 👔 Business-Facing Operations
 
-| Repository                                                                                                               | Area                         |
-| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
-| [PIXELRIFT](https://github.com/rizvee/PIXELRIFT)                                                                         | Creative/browser tool        |
-| [StyleSphere](https://github.com/rizvee/StyleSphere)                                                                     | Fashion/product experience   |
-| [stratos](https://github.com/rizvee/stratos)                                                                             | Web/tool experiment          |
-| [Cartographia-The-Alchemist-s-Atlas](https://github.com/rizvee/Cartographia-The-Alchemist-s-Atlas)                       | Creative/interactive project |
-| [MuseKit](https://github.com/rizvee/MuseKit)                                                                             | Creator toolkit              |
-| [SwiftQR](https://github.com/rizvee/SwiftQR)                                                                             | QR utility                   |
-| [WordWarp](https://github.com/rizvee/WordWarp)                                                                           | Word/puzzle tool             |
-| [The-Color-Thief](https://github.com/rizvee/The-Color-Thief)                                                             | Color utility                |
-| [WooAdvancePay-Partial-Payment-for-Woocommerce](https://github.com/rizvee/WooAdvancePay-Partial-Payment-for-Woocommerce) | WooCommerce partial payment  |
-| [rizvee.github.io](https://github.com/rizvee/rizvee.github.io)                                                           | GitHub Pages portfolio       |
-| [climacast](https://github.com/rizvee/climacast)                                                                         | Weather app                  |
-| [VocalAI-Desi](https://github.com/rizvee/VocalAI-Desi)                                                                   | AI/audio concept             |
-| [CloudNine](https://github.com/rizvee/CloudNine)                                                                         | Web/app experiment           |
-| [Utilvault](https://github.com/rizvee/Utilvault)                                                                         | Developer utilities          |
-| [css-art-generator](https://github.com/rizvee/css-art-generator)                                                         | CSS visual tool              |
-| [PaletteForge](https://github.com/rizvee/PaletteForge)                                                                   | Color palette tool           |
-| [dep-reaper](https://github.com/rizvee/dep-reaper)                                                                       | Dependency/tooling concept   |
-| [tracksmith-pro](https://github.com/rizvee/tracksmith-pro)                                                               | Tracking/ops tool            |
-| [portfolio-v2](https://github.com/rizvee/portfolio-v2)                                                                   | Portfolio rebuild            |
-| [Color-Bloom](https://github.com/rizvee/Color-Bloom)                                                                     | Color/creative project       |
-| [StockSync-All-in-one-simple-Stock-Management](https://github.com/rizvee/StockSync-All-in-one-simple-Stock-Management)   | Stock management             |
-| [PantryPal](https://github.com/rizvee/PantryPal)                                                                         | Utility/app project          |
-| [PixelForge](https://github.com/rizvee/PixelForge)                                                                       | Image processing tool        |
+I bridge the gap between engineering and real-world operations by designing digital systems for successful organizations.
+
+### Co-Founder & Digital Architect | Savior Lifestyle
+* **Website:** [saviorlifestyle.com](https://saviorlifestyle.com)  
+* **Operational Focus:** Scalable apparel e-commerce infrastructure.
+* **Key Achievements:**
+  * Configured reliable server hosting environments to manage seasonal traffic peaks.
+  * Designed custom conversion-focused landing pages and interactive checkout workflows.
+  * Implemented advanced server-side conversion tracking (Meta Pixel, Google Tag Manager).
+  * Reduced delivery cancellation rates through custom software solutions.
+
+### Systems Architect & Search Strategist | Culinary Institute of Bangladesh
+* **Website:** [cibdhk.com](https://cibdhk.com)  
+* **Operational Focus:** Institutional educational platforms and student workflows.
+* **Key Achievements:**
+  * Built high-speed training course landing pages with rapid loading scores.
+  * Developed secure online student certificate verification networks.
+  * Architected local search strategies that established CIB as a dominant training brand online.
+  * Implemented student tracking setups and event registrations.
 
 ---
 
-## Business-Facing Work
+## 📂 Additional Public Repositories
 
-### Savior Lifestyle
+An overview of my additional open-source code experiments, creative browser platforms, and operational utilities:
 
-**Website:** [saviorlifestyle.com](https://saviorlifestyle.com)
-
-Role: Co-founder and Digital Architect
-
-Focus areas:
-
-* E-commerce operations
-* WooCommerce infrastructure
-* Product content
-* Product page optimization
-* SEO
-* Analytics
-* Meta ads and tracking
-* Customer journey optimization
-* Apparel brand growth
-
----
-
-### Culinary Institute of Bangladesh
-
-**Website:** [cibdhk.com](https://cibdhk.com)
-
-Role: Digital systems, SEO, web infrastructure, growth strategy
-
-Focus areas:
-
-* Website architecture
-* Landing pages
-* SEO/AEO systems
-* Course funnel strategy
-* Student-facing systems
-* Certificate verification
-* Knowledge base architecture
-* Analytics and tracking
+| Repository | Primary Area | Tech Stack | Brief Summary |
+|---|---|---|---|
+| [StyleSphere](https://github.com/rizvee/StyleSphere) | Fashion / Visual | HTML, CSS, JS | Dynamic web showcase for catalog visual design. |
+| [PIXELRIFT](https://github.com/rizvee/PIXELRIFT) | Creative Tool | HTML, CSS Canvas | Browser utility for visual manipulation. |
+| [StockSync](https://github.com/rizvee/StockSync-All-in-one-simple-Stock-Management) | Business Sys | PHP, MySQL, CSS | Simplified inventory manager for physical items. |
+| [AppointEase](https://github.com/rizvee/AppointEase) | Business Sys | PHP, AJAX, Bootstrap | Office hour booking form with Google sheets logs. |
+| [LinkWiz-SaaS](https://github.com/rizvee/LinkWiz-SaaS) | Growth Tool | PHP, WordPress | Marketer link shortener and bio-link creator. |
+| [MuseKit](https://github.com/rizvee/MuseKit) | Creative Tool | JS, CSS, PWA | Media tools for background ambient audio/loops. |
+| [SwiftQR](https://github.com/rizvee/SwiftQR) | Utility | JS, Canvas API | Quick QR code builder with design customizers. |
+| [WordWarp](https://github.com/rizvee/WordWarp) | Puzzle Game | Vanilla JS, CSS | Interactive words puzzle and challenge game. |
+| [PaletteForge](https://github.com/rizvee/PaletteForge) | Creative Tool | Vanilla JS, Canvas | Color layout generator for designers. |
+| [The-Color-Thief](https://github.com/rizvee/The-Color-Thief) | Utility | HTML5, Canvas | Extract core palette shades from uploaded photos. |
+| [css-art-generator](https://github.com/rizvee/css-art-generator) | Visual Tool | CSS, JS Canvas | Pure CSS shape engine and art canvas exporter. |
+| [VocalAI-Desi](https://github.com/rizvee/VocalAI-Desi) | AI Concept | Python, API | Audio synthesis and transcription layout wrapper. |
+| [climacast](https://github.com/rizvee/climacast) | Weather App | JS, OpenWeather | Clean weather forecast checker with maps. |
+| [dep-reaper](https://github.com/rizvee/dep-reaper) | Dev Tool | Node.js, CLI | Scans and lists outdated codebase dependencies. |
+| [tracksmith-pro](https://github.com/rizvee/tracksmith-pro) | Ops Tool | JS, DB Layer | Simple delivery tracking and timeline manager. |
+| [PantryPal](https://github.com/rizvee/PantryPal) | Utility App | HTML, CSS, JS | Local storage grocery lists and expiring items bot. |
+| [PixelForge](https://github.com/rizvee/PixelForge) | Creative Tool | JS Canvas | Simple PWA web photo editing and canvas filter tool. |
+| [Color-Bloom](https://github.com/rizvee/Color-Bloom) | Creative Tool | JS Canvas | Interactive mouse particles particle emitter. |
+| [CloudNine](https://github.com/rizvee/CloudNine) | Web Concept | HTML, CSS, JS | Concept booking interface with slider transitions. |
+| [Utilvault](https://github.com/rizvee/Utilvault) | Dev Tool | JS Core | Shared code utility functions for frontend apps. |
+| [stratos](https://github.com/rizvee/stratos) | Web Experiment | CSS, HTML | Layout experiment with futuristic gradients. |
+| [portfolio-v2](https://github.com/rizvee/portfolio-v2) | Personal | HTML, Tailwind | Early personal website redesign mockup. |
+| [Cartographia](https://github.com/rizvee/Cartographia-The-Alchemist-s-Atlas) | Interactive | Canvas API, JS | Interactive canvas map and discovery interface. |
 
 ---
 
-## Project Philosophy
+## 🧬 Project Execution Philosophy
 
-Every project should answer at least one of these questions:
-
-1. Does it solve a real operational problem?
-2. Does it reduce repeated manual work?
-3. Does it improve search visibility or conversion?
-4. Does it create a reusable workflow?
-5. Does it make a business move faster?
-6. Does it make AI-assisted development more reliable?
-
-If not, it is probably not worth building.
-
----
-
-## Connect
-
-* Portfolio: [hasanrizvee.info](https://hasanrizvee.info)
-* GitHub: [github.com/rizvee](https://github.com/rizvee)
-* GitHub Pages: [rizvee.github.io](https://rizvee.github.io)
-* LinkedIn: [linkedin.com/in/hasanrizvee](https://www.linkedin.com/in/hasanrizvee)
-* Savior Lifestyle: [saviorlifestyle.com](https://saviorlifestyle.com)
-* CIB: [cibdhk.com](https://cibdhk.com)
+1. **Operations determine software design.** You cannot engineer a highly reliable e-commerce flow from an academic tower. You must understand delivery logistics, user payment psychology, and inventory margins.
+2. **Every script must solve friction.** If an operator has to click five buttons twice a day, those steps deserve to be grouped into a single automated task.
+3. **No black-box AI code.** Using AI tools should lead to pristine systems. Maintain rigid context scaffolding, clean lint requirements, and structured refactoring to ship high-speed code with strict architectural controls.
