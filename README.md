@@ -217,28 +217,68 @@ I run Python as my primary backend engine to orchestrate background operations, 
 
 ---
 
-## 📊 GitHub Contribution Metrics
+## 📊 Contribution & Domain Metrics
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=rizvee&theme=tokyonight&hide_border=true&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="100%" />
+
+<br /><br />
+
+### 🛠️ Production Ecosystem & Codebase Mapping
+
 <table>
-<tr>
-<td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizvee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&title_color=38bdf8&icon_color=0ea5e9" alt="GitHub Stats" width="100%" />
-</td>
-<td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizvee&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&langs_count=8" alt="Top Languages" width="100%" />
-</td>
-</tr>
+  <thead>
+    <tr style="background-color: #0f172a;">
+      <th align="left" width="30%">Ecosystem / Domain</th>
+      <th align="left" width="45%">Expertise & Target Workflows</th>
+      <th align="left" width="25%">Primary Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>CMS & E-Commerce</b></td>
+      <td><code>████████████████░░░░</code> <i>80% (Advanced)</i></td>
+      <td><code>PHP</code> <code>WooCommerce</code> <code>WP Core</code></td>
+    </tr>
+    <tr>
+      <td><b>Frontend & Web Apps</b></td>
+      <td><code>██████████████░░░░░░</code> <i>70% (Proficient)</i></td>
+      <td><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code></td>
+    </tr>
+    <tr>
+      <td><b>AI & Python Automation</b></td>
+      <td><code>██████████████░░░░░░</code> <i>70% (Proficient)</i></td>
+      <td><code>Python</code> <code>Playwright</code> <code>MCP</code> <code>APIs</code></td>
+    </tr>
+    <tr>
+      <td><b>3D Design & Apparel Tech</b></td>
+      <td><code>██████████░░░░░░░░░░</code> <i>50% (Experienced)</i></td>
+      <td><code>CLO3D</code> <code>Cinema 4D</code> <code>Canvas API</code></td>
+    </tr>
+  </tbody>
 </table>
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=rizvee&theme=tokyonight&hide_border=true&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="100%" />
+### 📈 Core Git Activity Summary
 
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=rizvee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>25+</h3>
+      <p><b>Public Repositories</b></p>
+    </td>
+    <td align="center" width="33%">
+      <h3>1,000+</h3>
+      <p><b>Commits & Builds</b></p>
+    </td>
+    <td align="center" width="33%">
+      <h3>10+</h3>
+      <p><b>Production Systems</b></p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
